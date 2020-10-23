@@ -1,16 +1,4 @@
-# star
+# 棋牌游戏 Flutter版
 
-A new Flutter project.
+之前做的一个德州棋牌游戏,说实话很一般,就当动画+各种算法的练手了
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
